@@ -1,0 +1,4 @@
+authormanagement\Application.class
+authormanagement\AuthorController.class
+authormanagement\Author.class
+authormanagement\AuthorManagerEndpoint.class
